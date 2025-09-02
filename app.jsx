@@ -157,9 +157,9 @@ function Hero() {
             <div className="mt-8 p-4 rounded-2xl bg-black/30 border border-white/15">
               <p className="text-white/70 text-sm mb-2">Contract Address</p>
               <div className="flex items-center justify-between gap-3">
-                <code className="text-white/90 font-mono text-sm truncate">So1aNaP1neApp13Addre55Examp1e...</code>
+                <code className="text-white/90 font-mono text-sm truncate">@AdcBcgGMgCivfLez6d7t4nXz2WhMUzDgXvEQXjPnpump</code>
                 <button
-                  onClick={() => copyToClipboard("So1aNaP1neApp13Addre55Examp1e...")}
+                  onClick={() => copyToClipboard("@AdcBcgGMgCivfLez6d7t4nXz2WhMUzDgXvEQXjPnpump")}
                   className="px-3 py-1 rounded-xl bg-white text-black text-sm font-semibold"
                 >📋 Copy</button>
               </div>
@@ -168,7 +168,7 @@ function Hero() {
             {/* Telegram Link */}
             <div className="mt-4">
               <a
-                href="https://t.me/pineappleonpizza"
+                href="https://t.me/pineapplepizzacommunity"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-2xl bg-blue-500 text-white font-semibold shadow hover:bg-blue-600"
