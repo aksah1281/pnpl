@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "build": "echo 'No build step needed - static files ready to deploy!'",
+    "build": "echo 'Static files ready in public directory!'",
     "deploy": "echo 'Ready to deploy to your hosting platform!'"
   },
   "keywords": [
